@@ -1,11 +1,15 @@
 {
     'name': 'Replace (tab key) with (Enter key)',
-    'author': 'Ahmed Tarek',
+    'author': 'Ahmed Tarek'
     'description': """
 Web UI: "Return" Key
 ====================
-Replace (tab key) with (Enter key) for field navigation.
---------------------------------------------------------
+Replace (tab key) with (Enter key) for field navigation.\n 
+
+Credits 
+====================
+-Med Said BARA - diassynthesis@gmail.com 
+-Vadim - vadim@based.at
 
 """,
     'version': '1.0',
