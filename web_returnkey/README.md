@@ -1,5 +1,5 @@
 # Web UI: "Return" Key
-====================
+
 Replace (tab key) with (Enter key) for field navigation. \n
 
 # Credits 
